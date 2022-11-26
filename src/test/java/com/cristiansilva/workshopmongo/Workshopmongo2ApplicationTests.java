@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class Workshopmongo2ApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void contextLoads() { 
 	}
 
 }
