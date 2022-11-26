@@ -23,7 +23,9 @@ Nesse projeto com o professor Nélio Alves, fizemos uma aplicação para buscar 
 
 
 ## Documentação
-- Swagger
+- JavaDoc
+![Javadoc](https://user-images.githubusercontent.com/112576141/204112310-1f69d7f3-81bc-4f09-b155-4207f75d7608.png)
+
 
 
 # Autor
